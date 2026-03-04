@@ -1,4 +1,4 @@
-import './App.css'
+import Header from './components/UI/Header'
 
 function App() {
 
@@ -6,6 +6,7 @@ function App() {
   return (
     <>
     <h1>MAIN</h1>
+    <Header/>
     </>
   )
 }
